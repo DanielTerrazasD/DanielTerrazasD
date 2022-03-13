@@ -5,7 +5,7 @@ I currently work as a Embedded Software Engineer at Resideo.
 I love learning new technologies, although my main focus for the past few months has been computer graphics and game dev.
 
 - 👾 I’m currently learning more about computer graphics and game dev.
-- 💬 Ask me anything about Embedded, IoT, Graphics; I'm always happy to help :blush:
+- 💬 Ask me anything about Embedded, IoT, GameDev; I'm always happy to help :blush:
 - :confetti_ball: Goal: Contribute more to Open Source projects.
 - :telescope: Fun Fact: I'm a BIG fan of watching stars and galaxies through my Celestron 127EQ.
 
